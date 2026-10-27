@@ -23,14 +23,14 @@ PLUGIN ONLY WORKS ON THE OLDER VERSION OF GIMP PROVIDED ABOVE
 ### Step 3: Open GIMP
 
 ### Step 4: Go into your file browser and set bookmarks to the Z drive.
-<img width="445" height="563" alt="2d-texturing-05" src="https://github.com/user-attachments/assets/d8d0d858-1d3f-4326-b229-e03da6a7b50d" />
+<img width="445" height="563" alt="2d-texturing-05" src="texture-guide-assets/2d-texturing/2d-texturing-05.png" />
 
 ### Step 5: Open a base file.
 
 [GitHub](https://github.com/Rowdy-Rodent-Industries/rri_texture_team)
 
 ### Step 6: Create a layer group with a layer for each color used.
-<img width="238" height="320" alt="2d-texturing-06" src="https://github.com/user-attachments/assets/2f53a8f4-2b28-4bbb-aefe-0cec64c0f0de" />
+<img width="238" height="320" alt="2d-texturing-06" src="texture-guide-assets/2d-texturing/2d-texturing-06.png" />
 
 - NCO Grey: `#343434`
 
@@ -40,14 +40,14 @@ PLUGIN ONLY WORKS ON THE OLDER VERSION OF GIMP PROVIDED ABOVE
 
 ### Step 7: Set the layer group mode to Multiply and the layers in the group to Normal.
 
-<img width="239" height="299" alt="2d-texturing-01" src="https://github.com/user-attachments/assets/6db3e1f4-b21e-4ec8-a9a7-0fb31dad0a7c" />
-<img width="238" height="320" alt="2d-texturing-02" src="https://github.com/user-attachments/assets/3e047bec-4229-41ff-bf70-6817056aa371" />
+<img width="239" height="299" alt="2d-texturing-01" src="texture-guide-assets/2d-texturing/2d-texturing-01.png" />
+<img width="238" height="320" alt="2d-texturing-02" src="texture-guide-assets/2d-texturing/2d-texturing-02.png" />
 
 ### Step 8: Texture your armor.
-<img width="1378" height="946" alt="2d-texturing-04" src="https://github.com/user-attachments/assets/2826ae2f-5648-479e-a934-1eb1c9713fda" />
+<img width="1378" height="946" alt="2d-texturing-04" src="texture-guide-assets/2d-texturing/2d-texturing-04.png" />
 
 ### Step 9: Save as a separate file.
-<img width="920" height="516" alt="2d-texturing-07" src="https://github.com/user-attachments/assets/c6459a7b-af0f-4d83-b816-a900a1915e82" />
+<img width="920" height="516" alt="2d-texturing-07" src="texture-guide-assets/2d-texturing/2d-texturing-07.png" />
 
 ### Step 10: Export into Arma 3 to test your texture.
 
