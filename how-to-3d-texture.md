@@ -8,7 +8,7 @@
 
 ### Step 1: Obtain and Install Adobe Substance Painter
 
-<img width="710" height="402" alt="3d-texturing-04" src="/rri_texture_team/texture-guide-assets/3d-texturing/3d-texturing-04.png"" />
+<img width="710" height="402" alt="3d-texturing-04" src="texture-guide-assets/3d-texturing/3d-texturing-04.png" />
 
 [Link](https://www.adobe.com/creativecloud/3d-ar/campaign/pricing.html?sdid=DRCF12SK&mv=search&mv2=paidsearch&gad_source=1&gad_campaignid=20186236523&gbraid=0AAAAADraYsJoT_BL81M596W23x_xbqyRL&gclid=Cj0KCQiAm9fLBhCQARIsAJoNOctoWhufhFBTZOp7OBnQW6f9rr5alPoTOs83FZHrfdNr8ZMeohIS3eoaAnZwEALw_wcB)
 
