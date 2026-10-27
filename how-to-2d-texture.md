@@ -18,7 +18,7 @@ PLUGIN ONLY WORKS ON THE OLDER VERSION OF GIMP PROVIDED ABOVE
 
 `Program Files\GIMP 2\lib\gimp\2.0\plug-ins`
 
-<img width="445" height="563" alt="2d-texturing-05" src="texture-guide-assets\2d-texturing\2d-texturing-03.png" />
+<img width="445" height="563" alt="2d-texturing-05" src="texture-guide-assets/2d-texturing/2d-texturing-03.png" />
 
 ### Step 3: Open GIMP
 
