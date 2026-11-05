@@ -8,6 +8,7 @@
 **STANDARDS**
 - [⚖️ Texture Rules](texture-rules)
 - [🏷️ Naming Reference](texture-name-system)
+- [🏷️ color-reference](color-reference)
 
 **TUTORIALS**
 - [🎨 2D Texturing · GIMP](how-to-2d-texture)
