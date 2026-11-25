@@ -4,6 +4,7 @@
 - [🏠 Home](/)
 - [📘 Team Orientation](orientation)
 - [📋 Claim & Submit](how-to-claim)
+- [💻 Github Tutorial](git_tutorial)
 
 **STANDARDS**
 - [⚖️ Texture Rules](texture-rules)
