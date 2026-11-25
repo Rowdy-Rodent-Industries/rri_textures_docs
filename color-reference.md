@@ -56,7 +56,7 @@ Official color hex codes for ranks, awards, commando backpacks, companies, plato
 | ↳ Alpha 3 | — | — |
 | ↳ Alpha 4 | — | — |
 | **Zulu Platoon** | `#2E7A6D` | ![#2E7A6D](https://placehold.co/80x20/2E7A6D/2E7A6D.png) |
-| ↳ Raven | #6d8196 | ![#6d8196](https://placehold.co/80x20/6d8196/6d8196.png) |
+| ↳ Raven |`#6d8196`| ![#6d8196](https://placehold.co/80x20/6d8196/6d8196.png) |
 | ↳ Zulu 2 | — | — |
 | ↳ Zulu 3 | — | — |
 | ↳ Zulu 4 | — | — |
@@ -92,7 +92,7 @@ Official color hex codes for ranks, awards, commando backpacks, companies, plato
 | ↳ Fenrir | `#1B2F4F` | ![#1B2F4F](https://placehold.co/80x20/1B2F4F/1B2F4F.png) |
 | ↳ Charlie 2 | — | — |
 | ↳ Charlie 3 | — | — |
-| ↳ Nyx | #2b083a  | ![#2b083a ](https://placehold.co/80x20/2b083a/2b083a.png) |
+| ↳ Nyx | `#2b083a`  | ![#2b083a ](https://placehold.co/80x20/2b083a/2b083a.png) |
 
 ## Detachment Colors
 
