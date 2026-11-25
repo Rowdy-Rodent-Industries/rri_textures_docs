@@ -92,7 +92,7 @@ Official color hex codes for ranks, awards, commando backpacks, companies, plato
 | ↳ Fenrir | `#1B2F4F` | ![#1B2F4F](https://placehold.co/80x20/1B2F4F/1B2F4F.png) |
 | ↳ Charlie 2 | — | — |
 | ↳ Charlie 3 | — | — |
-| ↳ Charlie 4 | — | — |
+| ↳ Nyx | #2b083a  | ![#2b083a ](https://placehold.co/80x20/2b083a/2b083a.png) |
 
 ## Detachment Colors
 
