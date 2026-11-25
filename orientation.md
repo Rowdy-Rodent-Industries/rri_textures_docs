@@ -10,6 +10,8 @@ Welcome to the **Special Operations Brigade (SOB) Texture Team**. This guide lis
 | PAA handling | [GIMP PAA plugin](https://drive.google.com/file/d/146fu1sY9jbUKBMas_Z3c3naPvTwtiz_U/view?usp=drive_link) |
 | PBO handling | [PBO Manager](https://www.moddb.com/downloads/pbo-manager-v14) |
 | 3D texturing | [Adobe Substance 3D Painter](https://www.adobe.com/products/substance3d-painter.html) |
+| Texture Repository Access | [Git Download](https://git-scm.com/) |
+| Large File Interaction on the repo | [Git LFS Download](https://git-lfs.com//) |
 | Base files | [RRI texture repository](https://github.com/Rowdy-Rodent-Industries/rri_texture_team) |
 
 ## Recommended reading order
