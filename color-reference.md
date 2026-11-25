@@ -56,7 +56,7 @@ Official color hex codes for ranks, awards, commando backpacks, companies, plato
 | ↳ Alpha 3 | — | — |
 | ↳ Alpha 4 | — | — |
 | **Zulu Platoon** | `#2E7A6D` | ![#2E7A6D](https://placehold.co/80x20/2E7A6D/2E7A6D.png) |
-| ↳ Zulu 1 | — | — |
+| ↳ Raven | #6d8196 | ![#6d8196](https://placehold.co/80x20/6d8196/6d8196.png) |
 | ↳ Zulu 2 | — | — |
 | ↳ Zulu 3 | — | — |
 | ↳ Zulu 4 | — | — |
