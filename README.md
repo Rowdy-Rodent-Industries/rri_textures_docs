@@ -7,10 +7,10 @@
 
 ### START HERE
 
-| 📘 **Orientation** | 🛡️ **Standards** | 🏷️ **Naming** |
+| 📘 **Orientation** | 🛡️ **Standards** | 🏷️ **Naming** | 💻 **Github Tutorial**
 |:---|:---|:---|
-| Understand the team, tools, and resources. | Review design restrictions before creating. | Find the exact file patterns for each armor type. |
-| [Team guide](orientation) | [Texture rules](texture-rules) | [Naming reference](texture-name-system) |
+| Understand the team, tools, and resources. | Review design restrictions before creating. | Find the exact file patterns for each armor type. | Understand how to download git and the texture repo | 
+| [Team guide](orientation) | [Texture rules](texture-rules) | [Naming reference](texture-name-system) | [Github Tutorial](git_tutorial) |
 
 ### LEARN THE WORKFLOW
 
